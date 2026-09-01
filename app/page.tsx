@@ -65,7 +65,7 @@ export default function Home() {
             <a href="#contact">Contact</a>
           </nav>
           <div className="hidden items-center gap-3 md:flex">
-            <span className="text-sm">☎ 0035699232864</span>
+            <span className="text-sm">☎ +35699232864</span>
             <button className="rounded-md border border-[#d9a94a] px-5 py-2">Log in</button>
             <button className="gold-button rounded-md px-5 py-2 font-semibold">Sign up</button>
           </div>
