@@ -61,7 +61,10 @@ export default function Home() {
             <a href="#charter">Charter</a>
             <a href="#fleet">Fleet</a>
             <a href="#safety">Safety</a>
-            <a href="#about">About Us</a>
+            <a href="#about">About Us Mr Abdelhamid Bighourdain</a>
+            <p className="text-sm text-slate-300 mt-1">
+  Email: <a href="mailto:dopskyy@hotmail.com" className="text-amber-400 hover:underline">your-email@example.com</a>
+</p>
             <a href="#contact">Contact</a>
           </nav>
           <div className="hidden items-center gap-3 md:flex">
